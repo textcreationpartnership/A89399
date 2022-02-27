@@ -1,0 +1,737 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mournfull elegie, in pious and perpetuall memory of the most honourable, Robert, Earle of Essex and Evve, Viscount Hereford, Lord Ferrers of Chartley, Bourchier, and Lovaine, late Lord chiefe Generall of all the Parliaments forces, who exchanged his life Septemb. 14. 1646.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89399</idno>
+            <idno type="STC">Wing M2986A</idno>
+            <idno type="STC">ESTC R232169</idno>
+            <idno type="EEBO-CITATION">99897842</idno>
+            <idno type="PROQUEST">99897842</idno>
+            <idno type="VID">137386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2535:9a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mournfull elegie, in pious and perpetuall memory of the most honourable, Robert, Earle of Essex and Evve, Viscount Hereford, Lord Ferrers of Chartley, Bourchier, and Lovaine, late Lord chiefe Generall of all the Parliaments forces, who exchanged his life Septemb. 14. 1646.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.B.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:137386:1"/>
+                  <pb facs="tcp:137386:1"/>
+                  <p>A Mournfull Elegie, In pious and perpetuall Memory of the moſt Honourable, <hi>ROBERT,</hi> Earle of ESSEX, and EVVE, Viſcount <hi>Hereford,</hi> Lord <hi>Ferrers</hi> of <hi>Chartley, Bourchier,</hi> and <hi>Lovaine,</hi> late Lord chiefe Generall of all the Parliaments Forces, who exchanged his Life <hi>Septemb.</hi> 14. 1646.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Thomas Banks.</hi> 1646.</p>
+               </div>
+            </front>
+            <body>
+               <div type="elegy">
+                  <pb facs="tcp:137386:2"/>
+                  <pb n="1" facs="tcp:137386:2"/>
+                  <head>For the Tombe-Stone.</head>
+                  <l>PAying a tribute teare, admitted be</l>
+                  <l>To view this cover of Mortalitie;</l>
+                  <l>Which becauſe fifty odd years it did detaine</l>
+                  <l>A heavenly ſoul, within its earthly chaine,</l>
+                  <l>Within this heap of ſtones is doom'd to be,</l>
+                  <l>Till time ſubmit unto eternitie;</l>
+                  <l>Which notwithſtanding, when you ſee it have</l>
+                  <l>This Marble Statue, ſay it is a Grave,</l>
+                  <l>Whoſe out-ſide, howſoever faire it be,</l>
+                  <l>The inſide's putrifi'd deformitie:</l>
+                  <l>This penance ended, 'cauſe it once was bleſt,</l>
+                  <l>In entertaining ſo divine a Ghueſt,</l>
+                  <l>In glorious forme it ſhall preſented be</l>
+                  <l>To heavens unknown joyes, by the Majeſtie</l>
+                  <l>Of God himſelf; there let his bleſt ſoule reſt,</l>
+                  <l>Till that his body be with glory bleſt.</l>
+               </div>
+               <div type="elegy">
+                  <pb n="2" facs="tcp:137386:3"/>
+                  <head>An Elegie on the death of the moſt honourable Earle of <hi>ESSEX.</hi>
+                  </head>
+                  <l>TO ſhadow ſorrow, ſeek not tears of brine,</l>
+                  <l>For that's a womans Rhetorique, not mine;</l>
+                  <l>I may paint part of grief, but cannot cry,</l>
+                  <l>The tide's too great, to drop out miſery;</l>
+                  <l>Whole floods of tears muſt like a Cataract</l>
+                  <l>Guſh, and affright, when I my ſorrowes act.</l>
+                  <l>Shallow ſtreams mutter, ſilent are the deep;</l>
+                  <l>My flood her flood gate breakes, if I do weep:</l>
+                  <l>Then come <hi>Melpomene</hi> with thy graving pen,</l>
+                  <l>Sink deep into the iron hearts of men,</l>
+                  <l>What they are ſenceleſſe of, array my Verſe</l>
+                  <l>With accents ſadder, then this ſable Herſe.</l>
+                  <l>Let every ſine my dull braine ſhall afford</l>
+                  <l>Rend one good heart at leaſt, let every word</l>
+                  <l>Gaine one poor ſoule t'accompany to bliſſe,</l>
+                  <l>This lamp of light, that here ecclipſed is,</l>
+                  <l>To ſhine in heaven; a traine ſee that he have</l>
+                  <l>T'attend him there, greater then to his grave</l>
+                  <l>Attends his corps, or if my words may move</l>
+                  <l>None elſe that do ſo well his vertue love:</l>
+                  <l>Then let my captiv'd ſoule infranchis'd be,</l>
+                  <l>To paſſe with his unto eternitie;</l>
+                  <l>If earth-dull'd ſpirits ſuch height cannot aſpire,</l>
+                  <l>Then for Aſſociates, let the heavenly Quire</l>
+                  <l>Of Angells guard him, and his <hi>Requiem</hi> ſing,</l>
+                  <l>Where unmaſqu'd joy, and perfect muſicke ring</l>
+                  <l>His happie entrance, S. <hi>John, Brooke, Hambden</hi> be</l>
+                  <l>Ready to waite with beſt obſervancie</l>
+                  <l>On his approach. But ſay Malignant death,</l>
+                  <l>What cauſed thee ſo ſoon to ſtop his breath?</l>
+                  <pb n="3" facs="tcp:137386:3"/>
+                  <l>Was it that I thy cruelty might find?</l>
+                  <l>Or th' generall hate thou bear'ſt to all man-kind?</l>
+                  <l>To glut thy intralls, all-devouring grave,</l>
+                  <l>Thou mightſt have tane ſome wretch whom need</l>
+                  <l>A corner in the concave of thy womb, (makes crave</l>
+                  <l>And have made that, not him, to fill the tomb</l>
+                  <l>Of thy inveterate malice, our hearts griefe,</l>
+                  <l>Could none ſuffice thee, but the Chiefeſt Chiefe</l>
+                  <l>Of all our Sex? Muſt Jems of ſuch eſteem</l>
+                  <l>Give luſtre to thy hated Diadem?</l>
+                  <l>Or was it becauſe things of greateſt price</l>
+                  <l>Unfit for earth, inhabit muſt the skies?</l>
+                  <l>If it were ſo, yet for a little ſpace</l>
+                  <l>Thou might'ſt have ſpared him, till of his race</l>
+                  <l>One branch had iſſued forth, not at one time</l>
+                  <l>Have crop'd both fruit and tree, even in the prime</l>
+                  <l>Of all his glory, when th'admiring world</l>
+                  <l>Upon his goodneſſe every eye had hurld,</l>
+                  <l>When hope lay bedrid, and all comfort dying,</l>
+                  <l>When cruelty her ſelf ſate almoſt crying;</l>
+                  <l>When neighbouring worlds his glory moſt envi'd,</l>
+                  <l>Then Englands honour, Europes wonder di'd.</l>
+                  <l>Which us to checke, the charitable skies</l>
+                  <l>Embalme him with rich tears, ſent from bright eyes,</l>
+                  <l>As if juſt heaven were pleas'd, that he ſhould have</l>
+                  <l>A ſecond Deluge to attend his grave.</l>
+                  <l>What ſad events have happened ſince his death,</l>
+                  <l>Since much lov'd <hi>Eſſex</hi> was depriv'd of breath:</l>
+                  <l>No day, nor night hath paſt, nay ſcarce and houre,</l>
+                  <l>In which heaven hath not pleas'd to ſend a ſhower</l>
+                  <l>Of tears to celebrate his obſequies,</l>
+                  <l>Which men ſhould pay from over-flowing eies;</l>
+                  <l>Storms have produced ſhipwracks, ſhipwracks dearth</l>
+                  <l>Of food and fuell from the teeming earth,</l>
+                  <l>Bread-corn, and firing, both are dearer ſold,</l>
+                  <l>As if with him, all charity were grown cold,</l>
+                  <l>As if the axill-tree of the world ſhould crack,</l>
+                  <l>Which <hi>Atlas</hi>-like, he bore upon his back.</l>
+                  <pb n="4" facs="tcp:137386:4"/>
+                  <l>Our Kingdomes being in a tottering State,</l>
+                  <l>God, by his hand, the ſame did regulate,</l>
+                  <l>Prop, and uphold, which now at ſix and ſeven,</l>
+                  <l>Again do hang, as if not ſwaid by heaven.</l>
+                  <l>The Kings beſt friend, and eke the Kingdoms too,</l>
+                  <l>Who loving both, to neither could be foe:</l>
+                  <l>The Clergies Patron, and the Souldiers glory,</l>
+                  <l>Both read him, and admire him in his ſtorie.</l>
+                  <l>
+                     <hi>Germans,</hi> both high and low, lament with me,</l>
+                  <l>That <hi>Spain</hi> and <hi>France</hi> joyes in your miſerie,</l>
+                  <l>Occaſion'd through his fall, that Schiſmatiques,</l>
+                  <l>Tub-Preachers, Anabaptiſts, Heretiques,</l>
+                  <l>The Independents, Antinomians, Papiſts,</l>
+                  <l>The Browniſts, and (which worſt of all) the Atheiſts</l>
+                  <l>Begin to glory. In thy triumph, death,</l>
+                  <l>Thou might'ſt have ſpared his, and ſtopt my breath:</l>
+                  <l>Thy cruelty had then been kindneſſe ſtil'd,</l>
+                  <l>And death to man-kind had been reconcil'd;</l>
+                  <l>Thoſe few among the multitude of men</l>
+                  <l>That wiſh me well, had Trophies to thee then</l>
+                  <l>Erected; and inſtead of bitter Layes,</l>
+                  <l>Thou hadſt been crown'd with Encomiaſtike bayes.</l>
+                  <l>Me that am weary of a wretched life,</l>
+                  <l>Neglected, friendleſſe, all compos'd of griefe,</l>
+                  <l>Thou giveſt leave to ſee my Lords ſad death,</l>
+                  <l>And after him to draw abhorred breath:</l>
+                  <l>Him that was happy in all things under heaven,</l>
+                  <l>By God or nature might to him be given,</l>
+                  <l>Helpfull t'all, open-handed unto merit,</l>
+                  <l>Sober in carriage, of an humble ſpirit:</l>
+                  <l>Him that (like God of War) in conquering field,</l>
+                  <l>His brandiſht ſword, ne're force of foe made yeeld;</l>
+                  <l>Him haſt thou taken away, and me haſt left,</l>
+                  <l>To moan his loſſe, of ſo much good bereft:</l>
+                  <l>Could nothing ſerve thy wrath, for to appeaſe,</l>
+                  <l>To ſpare his life, and breed our Kingdomes eaſe?</l>
+                  <l>Could not the plaints of Peers, the Commons fears,</l>
+                  <l>The Churches ſupplications, ſouldiers tears,</l>
+                  <pb n="5" facs="tcp:137386:4"/>
+                  <l>His ſiſters ſcorching ſighs, his kindreds groans,</l>
+                  <l>The clamour of his friends, his ſervants moans,</l>
+                  <l>The votes of Parliament, the orphans cries,</l>
+                  <l>The poors Petitions, nor the weeping eies</l>
+                  <l>Of widowes, move th'impartiall hand to dart</l>
+                  <l>Thy death-wing'd arrow at ſome others heart?</l>
+                  <l>They could not: why? becauſe his prayer was</l>
+                  <l>That he might be diſſolv'd, with Chriſt, to paſſe</l>
+                  <l>From hence to heaven; where moſt victorious he</l>
+                  <l>In triumph treads on ſin, and deſtinie.</l>
+                  <l>Hadſt thou with judgements eye but once beheld</l>
+                  <l>His moſt Majeſtike face, it would have queld</l>
+                  <l>Thy feareleſſe rage, as often it hath done,</l>
+                  <l>When <hi>Mars</hi> himſelf, did ſmile on <hi>Mars</hi> his ſonne:</l>
+                  <l>Let Edgehill-Fight and Gloceſter witneſſe be,</l>
+                  <l>The famous battell fought at Newberie,</l>
+                  <l>And thouſand Trophies more of victory,</l>
+                  <l>Of proweſs and of magnanimitie,</l>
+                  <l>By him obtain'd, had his unlimited ſoule</l>
+                  <l>In other Lands been ſuffered, fans controule,</l>
+                  <l>To actuate what he at home hath done,</l>
+                  <l>It had appear'd more glorious then the Sun.</l>
+                  <l>'Twas he made ſmooth the rigid path of war,</l>
+                  <l>'Twas he that did remove the enemy far</l>
+                  <l>From our Avenues: Others did but build</l>
+                  <l>On his foundation, he firſt gain'd the field.</l>
+                  <l>Yet was he ſleighted, ſcoffed, ſcorn'd and jeer'd</l>
+                  <l>By thoſe that lov'd him not; thoſe he not fear'd:</l>
+                  <l>Stigmatike coxcombs, that durſt once to lay</l>
+                  <l>Aſperſion on that Sun, whoſe light made day,</l>
+                  <l>Which now Ecclipſt, our Hemiſpheare is made</l>
+                  <l>All night; our Sun is now become a ſhade:</l>
+                  <l>And in this ſhade we now are left to moan,</l>
+                  <l>Not <hi>Eſſex</hi> loſſe, but in his loſſe our own;</l>
+                  <l>But I do but obnubilate his praiſe,</l>
+                  <l>Striving unto a higher pitch to raiſe</l>
+                  <l>What my impoliſht quill cannot expreſſe,</l>
+                  <l>But by expreſſing, that I make it leſſe.</l>
+                  <pb n="6" facs="tcp:137386:5"/>
+                  <l>Hadſt thou this ſeen death, thou hadſt not then don</l>
+                  <l>What now thou haſt, nor I had cauſe to moane;</l>
+                  <l>But being gone, why do I waſt my breath,</l>
+                  <l>'Tis he that triumphs, and not griſly death?</l>
+                  <l>On him thy envie hath gain'd only this,</l>
+                  <l>To change his fading good, for endleſſe bliſſe.</l>
+                  <l>Let us not then as men without hope grieve,</l>
+                  <l>Since that his purer part, his ſoule doth live,</l>
+                  <l>That would of incredulitie us reprove,</l>
+                  <l>Or challenge us of envie or ſelf-love;</l>
+                  <l>To grieve would argue doubt of his eſtate,</l>
+                  <l>Or envie that he proved ſo fortunate;</l>
+                  <l>Or at the leaſt ſelf-love it would expreſſe,</l>
+                  <l>In prizing our loſſe, not his happineſſe.</l>
+                  <l>But here me thinks, I hear ſome whiſpering, ask</l>
+                  <l>How ſilly I dare undergo this task,</l>
+                  <l>When many hundreds that more able are,</l>
+                  <l>Who in his loſſe do likewiſe claime a ſhare,</l>
+                  <l>Have and do daily write in mourning Verſe,</l>
+                  <l>With which to garniſh this bedewed Herſe?</l>
+                  <l>I anſwer, all that write, write not for love,</l>
+                  <l>Faſhion their pens, but paſſion mine doth move;</l>
+                  <l>My hope doth therefore guide me to believe,</l>
+                  <l>My mite ſhall be received, with theirs that give</l>
+                  <l>Abundantly: but this digreſſion leaving,</l>
+                  <l>With his pure ſoule, let prayers fly to heaven,</l>
+                  <l>That all ſurviving Peers, now left behind,</l>
+                  <l>May be affected in their ſoul and mind</l>
+                  <l>As he hath been; that when fate ends their dayes,</l>
+                  <l>They may be crown'd with never-dying Bayes</l>
+                  <l>Of good name here, and with that bleſt renown</l>
+                  <l>Of laſting joy, the everlaſting Crowne,</l>
+                  <l>In a far better world, as he now is,</l>
+                  <l>Being poſseſt of never-ending bliſse;</l>
+                  <l>I then ſhall think me truly happy, when</l>
+                  <l>Divineſt Ecchoes anſwer ſhall AMEN.</l>
+                  <bibl>
+                     <hi>J. B.</hi>
+                  </bibl>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:137386:5"/>
+                  <p>AN ELEGY VPON the unhappy loſſe OF THE NOBLE EARLE OF ESSEX.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>John Benſon,</hi> and are to be ſold at his ſhop in Dunſtanes Church-yard. 1646.</p>
+               </div>
+            </front>
+            <body>
+               <div type="elegy">
+                  <pb facs="tcp:137386:6" rendition="simple:additions"/>
+                  <pb facs="tcp:137386:6"/>
+                  <head>An Elegy on the Death of the noble Earle of <hi>Eſſex.</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">I</seg> Need no fatall quill that ha's the art</l>
+                     <l>At every line it writes to breake an heart:</l>
+                     <l>For when I ſhall but once begin t' expreſſe</l>
+                     <l>The publique cauſe, and ſubject of my verſe,</l>
+                     <l>More motives may be ſpar'd our unſtrain'd grief</l>
+                     <l>Will need no provocation, but reliefe.</l>
+                     <l>
+                        <hi>Eſſex is dead.</hi> What thunder ſtrikes our eares,</l>
+                     <l>Threatning an inundation of teares?</l>
+                     <l>This is a judgement more then wee conceiv'd,</l>
+                     <l>To be by our beſt hope the moſt deceiv'd:</l>
+                     <l>And that the Noble Cauſe of our Redreſſe,</l>
+                     <l>Should now be ſo of our extreame Diſtreſſe.</l>
+                     <l>Or is't a mercy, ſince Heaven did intend</l>
+                     <l>At laſt, an exil'd peace back t' us to ſend?</l>
+                     <l>Thus to make way, by ſoft'ning our hard hearts</l>
+                     <l>By ſuch a blow; which the ſucceſſive darts</l>
+                     <l>It ſhot at our owne perſons, could not pierce</l>
+                     <l>Who ne'er had wept but at his frowne or hearſe.</l>
+                     <l>That wee exchanging for new griefe, old hate;</l>
+                     <l>(Though ſenceleſſe of our owne) might mourne his fate;</l>
+                     <l>That teares begun for loſſe might end for ſin,</l>
+                     <l>And hearts twice broke let peace and mercy in.</l>
+                  </lg>
+                  <lg>
+                     <l>But is he gone from us! Injurious Death</l>
+                     <l>Haſt thou depriv'd him of that purer breath</l>
+                     <l>Then quickens vulgar lumps; I then could wiſh,</l>
+                     <l>That old Pythagoras Metempſychoſis</l>
+                     <l>Were not a fable, that the world might boaſt</l>
+                     <l>A ſecond Phoenix, now the firſt is loſt.</l>
+                     <pb facs="tcp:137386:7" rendition="simple:additions"/>
+                     <l>When England loſt it's darling in the fate</l>
+                     <l>Of his lov'd Father (though unfortunate</l>
+                     <l>In their deſires) their hopes did ſtill ſurviue,</l>
+                     <l>Whil'ſt he had left ſo brave a Son alive.</l>
+                     <l>Whoſe early youthfull bloſſomes did preſage</l>
+                     <l>Moſt glorious fruits in his more riper age</l>
+                     <l>But all that then was hop'd was that the Son</l>
+                     <l>Should keepe that honour which his Father wonne.</l>
+                     <l>But he not bounded by ſtrict preſident</l>
+                     <l>His, as all other patternes quite out went.</l>
+                     <l>Compleateſt acts of ancient Hero's were</l>
+                     <l>The eſſaies of his youth, whereon to reare</l>
+                     <l>Fames higheſt Stories, their great aimes were found</l>
+                     <l>His firſt attempts, their battlements his ground.</l>
+                     <l>So that great Eſſex's name is greater growne</l>
+                     <l>By his Sons honour added to his owne.</l>
+                     <l>For ev'n in them was long time verifi'd</l>
+                     <l>What's ſaid of Kings, for Eſſex never di'd</l>
+                     <l>Till now. But now the Title too is gone</l>
+                     <l>A Title men will tremble to put on</l>
+                     <l>Though offer'd; ſince it ſtrongly do's oblige</l>
+                     <l>To courage, councell, combate, ſtorming, ſeidge,</l>
+                     <l>Devotion, Temp'rance, and what ever can</l>
+                     <l>Render the wearer a moſt perfect man.</l>
+                     <l>And ſurely, had Heav'n bleſt us but ſo much</l>
+                     <l>As with a Son of his, he had been ſuch:</l>
+                     <l>This envious fiends ſuſpected, and did try</l>
+                     <l>Their utmoſt skill to barre him progeny.</l>
+                  </lg>
+                  <lg>
+                     <l>But he ſhall live in his more laſting name</l>
+                     <l>Borne on the wings of never-dying Fame.</l>
+                     <l>No Chronicler ſhall need to write his praiſe</l>
+                     <l>In mouldy parchment left to after-daies</l>
+                     <pb facs="tcp:137386:7"/>
+                     <l>For as the holy Patriarchs Religion</l>
+                     <l>Was left to them by long-deriv'd tradition;</l>
+                     <l>So ſhall his acts be handed to thoſe men</l>
+                     <l>Are yet unborne, and they the ſame agen</l>
+                     <l>ſhall tell their Childrens Chidren, till it grow</l>
+                     <l>Part of their education to doe ſo.</l>
+                     <l>In his poore Cottage by a Winter fire</l>
+                     <l>To his great granchildren ſhall the aged ſire</l>
+                     <l>From's eaſie chaire relate the ancient ſtories</l>
+                     <l>Of his exploits and vertues; whil'ſt he glories</l>
+                     <l>T' have trail'd a pike at Keinton, or receiv'd</l>
+                     <l>A ſhot at Reading, or when 'twas reliev'd</l>
+                     <l>T' have march't to Gloſter, then the memory</l>
+                     <l>Of that unparallell'd Newb'ry victory</l>
+                     <l>Shall cauſe him rake his embers, and proceed</l>
+                     <l>To tell the Generals vertue as his deed.</l>
+                     <l>"And yet my Children, though all this did he</l>
+                     <l>"He courted not the peoples cap or knee.</l>
+                     <l>"Their praiſe or diſpraiſe he did not regard,</l>
+                     <l>"Virtue that ſet him on was his reward.</l>
+                     <l>"And though he had (yet was) been prais'd by none;</l>
+                     <l>"He durſt in ſpight of all be good alone.</l>
+                     <l>"He moov'd by his owne principles, for 'tis knowne</l>
+                     <l>"He was not wrought by Royal ſmile or frowne.</l>
+                     <l>"Like to the truſty Sun he kept his line</l>
+                     <l>"Purſuing ſtill his firſt and knowne deſigne,</l>
+                     <l>"He was not made for changes, nor could lend</l>
+                     <l>"An I. in Parliament for a by-end.</l>
+                     <l>"If he had foes they durſt not mak't appeare,</l>
+                     <l>"His frowne alone would ſtrike them dead with feare.</l>
+                     <l>"And if they wiſp'rd any thing amiſſe</l>
+                     <l>"They guard his name with a parentheſis.</l>
+                     <pb facs="tcp:137386:8"/>
+                     <l>"Still <hi>[He was faithfull]</hi> who ſo e'r offended</l>
+                     <l>"Tis much to be by All ſo well commended.</l>
+                     <l>"But they were wiſe; who durſt the ſame deny</l>
+                     <l>"Sure he was deſp'rate and reſolv'd to dye.</l>
+                     <l>"Who ſo durſt meet him, durſt doe more then Death</l>
+                     <l>"That raviſh'd not, but ſtole away his breath</l>
+                     <l>"Ah treacherous coward that did'ſt ſlily creepe</l>
+                     <l>"And unawares, to kill him in his ſleepe.</l>
+                  </lg>
+                  <lg>
+                     <l>Now Noble Peeres after his Hearſe march on,</l>
+                     <l>Mourne as you go, your great exampl's gone.</l>
+                     <l>And you grave Patriots learne to know your loſſe,</l>
+                     <l>He was your bleſſing whom ſome thought your croſſe.</l>
+                     <l>You reverend Synod, cannot chuſe but ſhed</l>
+                     <l>Some Fun'rall teares ſince your ſtout Patron's dead.</l>
+                     <l>And you brave Souldiers will have moiſtned eyes</l>
+                     <l>For he is fall'n by whom you all did riſe.</l>
+                     <l>Weepe Widdows weepe, he's gone that was of late</l>
+                     <l>Your moſt indulgent, conſtant Advocate.</l>
+                     <l>And you that once were foes ſome teares beſtow</l>
+                     <l>On your owne ſelves, your fines will not be low.</l>
+                     <l>Weepe England now, thou ſe'ſt thy Champion's end,</l>
+                     <l>Scotland weepe too, for thou haſt loſt a Friend.</l>
+                     <l>But Ireland moſt of all, expreſſe thy griefe</l>
+                     <l>For he is dead that long'd to ſend reliefe.</l>
+                     <l>Weepe Vertue too, for thou a Widdow art,</l>
+                     <l>And well mai'ſt act the chiefeſt mourners part:</l>
+                     <l>And Envy weepe, and ſtarve, now he is gone</l>
+                     <l>Thoul't ſcarce find goodneſſe heere to feed upon.</l>
+                  </lg>
+               </div>
+               <div type="elegy">
+                  <pb facs="tcp:137386:8"/>
+                  <head>An Epitaph on the Earle of <hi>Eſſex.</hi>
+                  </head>
+                  <l>BOaſt Marble, that conceal'ſt this Duſt</l>
+                  <l>Not of thy Laſtingneſſe, but Truſt.</l>
+                  <l>Ten thouſand unto thee ſhall bring</l>
+                  <l>Of vowed teares their offering.</l>
+                  <l>The drieſt eye ſhall drop a Gem</l>
+                  <l>T' enrich death's envi'd Diadem.</l>
+                  <l>To thine, great <hi>Eſſex's</hi> Memory</l>
+                  <l>Shall adde it's owne eternity:</l>
+                  <l>Thereby thou ſhalt thy ſelfe out laſt</l>
+                  <l>Which elſe, like other ſtones, would'ſt waſte</l>
+                  <l>And mix thy Duſt with them, that deepe</l>
+                  <l>Thou unprophaned now do'ſt keepe.</l>
+                  <l>Nay Death it ſelfe will ſure prevent</l>
+                  <l>Of His and <hi>Eſſex</hi> Monument</l>
+                  <l>The leaſt decay: For neer did he</l>
+                  <l>More glory in a victory.</l>
+                  <l>On thee Death ſits in ſtate, and braves</l>
+                  <l>Himſelfe more then on neighbour-graves.</l>
+                  <l>To kill a Prince, or Duke, or ſo,</l>
+                  <l>Is counted but Death's common blow.</l>
+                  <l>But when he ſlew brave <hi>Eſſex,</hi> he</l>
+                  <l>Did triumph ore Humanity.</l>
+                  <l>The Virger that's wont to relate</l>
+                  <l>This Princes valour, that's eſtate,</l>
+                  <l>The vertuous life and famous acts</l>
+                  <l>Of Peeres deceaſed, the extracts</l>
+                  <l>Of every noble Family;</l>
+                  <l>May finde all in Epitome:</l>
+                  <l>And ſave the labour of Retaile</l>
+                  <l>And tell the people, <hi>HERE LIES, ALL.</hi>
+                  </l>
+               </div>
+               <div type="elegy">
+                  <pb facs="tcp:137386:9"/>
+                  <pb facs="tcp:137386:9" rendition="simple:additions"/>
+                  <head>An Elegie upon the moſt lamented death of the Right Honourable and truly valiant, ROBERT Earle of <hi>Eſſex, &amp;c.</hi>
+                  </head>
+                  <lg>
+                     <l>I Thanke thee, Griefe, that thou haſt found a voice:</l>
+                     <l>Some thinke there runs no ſtreame, where's heard no noiſe;</l>
+                     <l>And yet Ile beare thee witneſſe, when there ſtood</l>
+                     <l>No water in thine Eye, thy Heart wept Blood;</l>
+                  </lg>
+                  <lg>
+                     <l>So may the ſtealing Brooke mourne under ground,</l>
+                     <l>When on the ſurface, nought but Flint is found.</l>
+                  </lg>
+                  <lg>
+                     <l>Advance my Teares then, and your Office bee</l>
+                     <l>To bring the Reare up of this Obſequie.</l>
+                  </lg>
+                  <lg>
+                     <l>A Reare of Mourners, which ſhall reach from hence</l>
+                     <l>To Doomes-day, mourning not for Forme, but Senſe.</l>
+                     <l>We now but ſee the Pompe; but after times</l>
+                     <l>Shall make us feele our Loſſe, due to our-Crimes;</l>
+                     <l>VVhen Monarchy ſhall faint, and Faction thrive,</l>
+                     <l>How ſhall we then wiſh <hi>Devereux</hi> alive?</l>
+                     <l>VVhen there is none to dry up Widdowes Teares;</l>
+                     <l>None to Repulſe our Jealouſies and Feares:</l>
+                     <l>When Juſtice ſelfe ſhall want an Advocate,</l>
+                     <l>And truth in coward ſilence read her Fate;</l>
+                     <l>When thoſe daies come, (O never come thoſe Daies;</l>
+                     <l>Never to us!) that he ſhall weare the Bayes,</l>
+                     <l>And be accounted valiant, who ſhall dare</l>
+                     <l>To whiſper Truth, though onely to the Aire:</l>
+                     <l>When the meane Feet ſhall trample ore the Head;</l>
+                     <l>How ſhall we then feele <hi>Devereux</hi> is dead?</l>
+                     <l>
+                        <hi>Devereux,</hi> the Nobles Orbe, the Gentries Starr,</l>
+                     <l>The Cities Altar, the wrong'd Countries Barr:</l>
+                     <l>
+                        <hi>Devereux,</hi> the Juſt, <hi>Devereux,</hi> the Stout, the Wiſe,</l>
+                     <l>The maimed Souldiers Limbes, the Blind mans Eyes.</l>
+                     <l>The Armies faithfull Alm'ner; or what's more</l>
+                     <l>
+                        <hi>Devereux,</hi> the very <hi>Devereux</hi> of their Poore;</l>
+                  </lg>
+                  <lg>
+                     <l>Yet He, this Cedar's fall'n: or rather, is</l>
+                     <l>Tranſplanted, for to grow in Paradiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>How the Ghoſts throng to ſee their great new Ghueſt;</l>
+                     <l>
+                        <hi>Talbot, Vere, Norris, Williams,</hi> and the reſt,</l>
+                     <pb facs="tcp:137386:10"/>
+                     <l>Thoſe valiant Shades, England's beſt Sonnes! each one</l>
+                     <l>Courting Him to their Bowers; (Bowers, whereof none</l>
+                     <l>But was of conquering <hi>Laurell</hi>) there to heare</l>
+                     <l>A ſtorie, which would force from Ghoſts a Teare.</l>
+                     <l>(Their Mothers Tragedy) as 'twas acted late</l>
+                     <l>By her owne Children, to make ſport for Fate;</l>
+                  </lg>
+                  <lg>
+                     <l>For they had ſeen the Stygian Boats e'vn ſinke,</l>
+                     <l>Laden with Soules up to the very brinke;</l>
+                     <l>Had known their Charon tugg and ſweat, and ſay;</l>
+                     <l>England did find him moſt work and beſt pay.</l>
+                  </lg>
+                  <lg>
+                     <l>He (the new Ghueſt) who (ſince he did afford</l>
+                     <l>To hold in peace the Scales, in War the Sword,</l>
+                     <l>Could therefore give beſt Judgment: the pure ſtampe</l>
+                     <l>How things'ith Senate paſſ'd, how in the Camp:)</l>
+                     <l>Diſſects the Body politique, and with weight</l>
+                     <l>Laies ope the Griefes and Maladies of State.</l>
+                  </lg>
+                  <lg>
+                     <l>Shewes how thoſe hands that held the Scales were numb,</l>
+                     <l>And how that Tongue which ſhould preach Peace was dumb;</l>
+                     <l>The Feet (ſaith He) went ſtaggering, and 'tis ſed,</l>
+                     <l>Some Clouds and Vapours did poſſeſſe the Head,</l>
+                     <l>Whoſe little finger, had the poyſon mov'd,</l>
+                     <l>Heavier then all his Fathers Loynes had prov'd;</l>
+                     <l>The Eyes grew dim and darkiſh, whiles the Eare</l>
+                     <l>Deafe to ſage Counſell, yet ſtrange Tales could heare;</l>
+                     <l>And the whole Frame did ſo with Feaver burne,</l>
+                     <l>Feaver might ſerve for Piles to fill the Urne;</l>
+                     <l>And England mouldring thus through Feaveriſh Ire,</l>
+                     <l>Save Heaven the labour of a Doomes-day Fire.</l>
+                     <l>All now was turning into Aſhes: ſo</l>
+                     <l>Conſuming Flames Incendiaries blow,</l>
+                  </lg>
+                  <lg>
+                     <l>Hence Englands beſt Phyſitians judg'd it need</l>
+                     <l>(To ſave the Body) that ſome veines ſhould bleed;</l>
+                     <l>Surgeons from all parts come to work the Cure</l>
+                     <l>(She now was patient and muſt all endure.)</l>
+                     <l>Leeches and Emp'ricks (Colledge fulls) all came,</l>
+                     <l>To cure? no, but to practiſe on their Dame.</l>
+                     <l>And thus they let her bleed too much: ſo they</l>
+                     <l>Can gaine, no matter though ſhe bloodleſſe lay.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet ſome there came, Artiſts, and honeſt too;</l>
+                     <l>Men that without a plot their work would do:</l>
+                     <pb facs="tcp:137386:10"/>
+                     <l>Men, that to ſtop her blood, their own did give,</l>
+                     <l>And paid their Deathleſſe Lives to make her live.</l>
+                     <l>So ſharp a Pill is War, that ſome have thought</l>
+                     <l>Even Health it ſelfe, at this price, too deare bought;</l>
+                     <l>Phyſick on a Swords point can ſeldome pleaſe,</l>
+                     <l>Men count ſuch Remedies worſe then the Diſeaſe.</l>
+                  </lg>
+                  <lg>
+                     <l>And thus as he was blazning States, and Men,</l>
+                     <l>Perſons, and Things, the Cauſe; why? how? and when?</l>
+                     <l>Still paſſing ore Himſelfe, as if he were,</l>
+                     <l>Though others Trumpet, His own Silencer:</l>
+                     <l>Still his own Mute, whilſt yet he Trumpets forth</l>
+                     <l>Great <hi>Warwicks,</hi> and <hi>Northumberlands</hi> great Worth:</l>
+                     <l>VVith other Heroes plac'd in high Command,</l>
+                     <l>
+                        <hi>Neptunes</hi> at Sea, and <hi>Marses</hi> on the Land;</l>
+                  </lg>
+                  <lg>
+                     <l>But who was He, cry'd ſome, (not but they knew:</l>
+                     <l>But that they long'd to heare thoſe geſts anew</l>
+                     <l>Which they ſo dearly lov'd) who's he that fought</l>
+                     <l>So much for Peace 'bove Victory? that thought</l>
+                     <l>The bloodleſſe Bayes the beſt? He that aim'd moe</l>
+                     <l>To ſave one Citizen, then kill many a Foe?</l>
+                     <l>He that knew how to value Lives? the Man,</l>
+                     <l>So much good Souldier, and good Chriſtian;</l>
+                     <l>That kill'd and ſigh'd, mourn'd as he Trophies wore,</l>
+                     <l>Mingling his own Teares with his Enemies gore?</l>
+                     <l>As if his Grand Commiſſion did not give</l>
+                     <l>Him power to kill and ſlay, but kill and grieve.</l>
+                  </lg>
+                  <lg>
+                     <l>And yet agen, that moſt undaunted Hee,</l>
+                     <l>(When th' Armies were to joyne, to diſagree)</l>
+                     <l>VVho ſpeech'd his Souldiers firſt with Voyce and Drum,</l>
+                     <l>Then <hi>Caeſar</hi>-like bad them, not go, but come?</l>
+                     <l>He, who Himſelfe an Army was alone!</l>
+                     <l>He, who was then moſt Generall, when yet none?</l>
+                     <l>And had whole Legions ever at his need,</l>
+                     <l>Legions of Souldiers not to Fight, but Feed:</l>
+                  </lg>
+                  <lg>
+                     <l>Yea but who's He, cry'd one among the throng,</l>
+                     <l>That with ſo few men rais'd a Siege ſo ſtrong?</l>
+                     <l>That made Retreat from twice his odds, the while,</l>
+                     <l>As he Retreated, fighting, threeſcore mile?</l>
+                     <l>And this, not through fenc'd Lanes, and in thick nights,</l>
+                     <l>The Downes and Midday Sun ſaw all his fights.</l>
+                     <pb facs="tcp:137386:11"/>
+                     <l>An honour, we could envy, could this place</l>
+                     <l>(Loves Throne) admit a wrinckled Heart or Face.</l>
+                  </lg>
+                  <lg>
+                     <l>VVith that, ſome Cavalier Ghoſts (for there come</l>
+                     <l>Of them to reſt here in Elyſium)</l>
+                     <l>The Learned <hi>Faulkland,</hi> and <hi>Carnarvan</hi> ſtout,</l>
+                     <l>Fierce <hi>Lindſey,</hi> (Spartan ſhades, above the Rout;)</l>
+                     <l>Such as had paid him Homage with their Blood,</l>
+                     <l>And fallen his Sacrifices, when he ſtood</l>
+                     <l>Pointed at our deare loſſe, and ſaid; all this,</l>
+                     <l>And more is <hi>Devereux;</hi> this, and more is His;</l>
+                     <l>Which made him bluſh; His pale Ghoſt bluſh'd; and then</l>
+                     <l>He look'd, as if he had been alive agen.</l>
+                  </lg>
+                  <lg>
+                     <l>But when ſuch prayſes even from Enemies come,</l>
+                     <l>It were a ſin in us, ſhould we ſtand dumbe?</l>
+                  </lg>
+                  <lg>
+                     <l>And is't not pitty ſo Fam'd worth ſhould dye</l>
+                     <l>Without an Heire? No Sonne to cloſe his Eye?</l>
+                     <l>No Child to weare his vertue with his Name?</l>
+                     <l>None to inherit his well-gotten Fame?</l>
+                     <l>But as great <hi>'Paminondas</hi> anſwered thoſe</l>
+                     <l>His Friends, that mourn'd his Fall, (mourn'd by his Foes)</l>
+                     <l>'Cauſe he fell Childleſſe; as if <hi>Greece</hi> were done</l>
+                     <l>Since ſo much vertue dyed without a Sonne:</l>
+                     <l>But yet (ſaith He) ſtill beare it in your mind,</l>
+                     <l>I've left two Daughters with you here behind,</l>
+                     <l>
+                        <hi>Leuctra</hi> and <hi>Mantinea;</hi> who ſhall keep</l>
+                     <l>Their Fathers Name from Death, and <hi>Thebes</hi> from ſleep;</l>
+                     <l>So when our <hi>Devereux,</hi> (<hi>Devereux,</hi> a word</l>
+                     <l>Great as that Greek's, and keener then his Sword:</l>
+                     <l>A Name that fils the Mouth, and wounds the Eare:</l>
+                     <l>A Name that <hi>Machiavell</hi> would be pleas'd to heare.</l>
+                     <l>He, who admires the Pagans large-ſiz'd Name</l>
+                     <l>'Bove Chriſtians; as if words could create Fame.)</l>
+                     <l>So when our <hi>Devereux</hi> is bemoan'd in Death,</l>
+                     <l>As one that leaves no Sonne to breath his Breath,</l>
+                     <l>Anſwer is made, He leaves two Daughters faire,</l>
+                     <l>
+                        <hi>Reading</hi> and <hi>Gloceſter,</hi> Daughters ſuch as are</l>
+                     <l>Sans parallell; and which will coſt the State</l>
+                     <l>Millions to match them with an equall Mate.</l>
+                     <l>Or ſhould this Iſſue faile, yet how can He</l>
+                     <l>Want Sonnes and Heires, who's <hi>Pater Patriae.</hi>
+                     </l>
+                  </lg>
+                  <signed>C. G.</signed>
+                  <pb facs="tcp:137386:11"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
